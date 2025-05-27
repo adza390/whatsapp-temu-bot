@@ -1,0 +1,18 @@
+{
+  "paketi": [
+    {
+      "id": "TE000001567735",
+      "status": "Paket se proverava na carini",
+      "kurir": "M-ONE",
+      "name": "Treci Paket",
+      "lastUpdate": "2025-05-26T12:40:00.000Z"
+    },
+    {
+      "id": "TE000001546008",
+      "name": "Prvi Paket",
+      "status": "Prikupljen od strane carine -  Postupak Carinjenja nije započet",
+      "kurir": "M-ONE",
+      "lastUpdate": "2025-05-26T12:40:00.000Z"
+    }
+  ]
+}
